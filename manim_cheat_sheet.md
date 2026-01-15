@@ -4,7 +4,7 @@
 ## **1) Objekte (Mobjects)**
 
 ### **1.1) Objekte definieren**
-![Mobjects](images/mobjects.png)
+![Mobjects](mobjects.png)
 
 | Objekt | Beispielhafte Definition |
 |---|---|
